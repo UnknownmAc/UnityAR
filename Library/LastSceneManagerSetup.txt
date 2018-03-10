@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/wolf_on_card.unity
+  isLoaded: 1
+  isActive: 1

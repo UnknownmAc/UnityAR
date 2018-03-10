@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveCard", "Assembly-CSharp.csproj", "{38366CBD-AC80-F6BB-E84B-DBA9F8593240}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveCard", "Assembly-CSharp-Editor.csproj", "{1A4FE260-6B3F-C05D-974D-50C9A9E6FD23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38366CBD-AC80-F6BB-E84B-DBA9F8593240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38366CBD-AC80-F6BB-E84B-DBA9F8593240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38366CBD-AC80-F6BB-E84B-DBA9F8593240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38366CBD-AC80-F6BB-E84B-DBA9F8593240}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A4FE260-6B3F-C05D-974D-50C9A9E6FD23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A4FE260-6B3F-C05D-974D-50C9A9E6FD23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A4FE260-6B3F-C05D-974D-50C9A9E6FD23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A4FE260-6B3F-C05D-974D-50C9A9E6FD23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

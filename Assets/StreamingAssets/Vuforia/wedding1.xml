@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="wedding3" size="50.000000 35.529892" />
+    <ImageTarget name="wedding1" size="50.000000 32.031250" />
+    <ImageTarget name="stylish_wedding_card_design_elements" size="50.000000 35.171429" />
+    <ImageTarget name="wedding2" size="50.000000 50.000000" />
+  </Tracking>
+</QCARConfig>
